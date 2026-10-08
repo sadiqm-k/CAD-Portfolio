@@ -5,9 +5,9 @@ Welcome! This is my portfolio to showcase my CAD projects
 <figure>
   <img width="1020" height="590" alt="Screenshot 2026-10-07 233546" src="https://github.com/user-attachments/assets/05302a2e-02db-4497-ad2c-520828842ed8"/>
   <figcaption align="center"><b>Figure 1:</b> Tiger II 3D model.</figcaption>
-</figure>
+</figure>\
 
-I am really invested in scale models as a hobby of mine, so I thought it would be really fun to create one of my own. This is my own interpretation of a 1/24 scale model of a Tiger II prototype that I thought was really cool. I primarily made this to showcase the interlocking sprockets which I am super happy with how they turned out.
+I am really invested in scale models as a hobby of mine, so I thought it would be really fun to create one of my own. This is my own interpretation of a 1/24 scale model of a Tiger II prototype that I thought was really cool. I based this off of prototype drawings of the vehicle from the era and experimented with creating movable sprockets, turret, and canon. I primarily made this to showcase the interlocking sprockets which I am super happy with how they turned out.
 <figure>
   <img width="1055" height="670" alt="image" src="https://github.com/user-attachments/assets/2c3c7845-430f-464d-8d42-ed89e7cbd83d" />
 <figcaption align="center"><b>Figure 2:</b> Tiger II exploded model.</figcaption>
