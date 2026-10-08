@@ -3,12 +3,12 @@ Welcome! This is my portfolio to showcase my CAD projects
 ***
 ## Drone
 <figure>
-  <img width="881" height="467" alt="image" src="https://github.com/user-attachments/assets/15f3526c-6fb3-4047-95af-fe2d68dd89f5" />
+  <img width="1057" height="560" alt="image" src="https://github.com/user-attachments/assets/15f3526c-6fb3-4047-95af-fe2d68dd89f5" />
   <figcaption align="center"><b>Figure 1:</b> Drone 3D model.</figcaption>
 </figure\>
 This was a fun little project that I was working on of a delta-winged drone that uses a NACA 2412 airfoil at a 1-2° AoA. It's about 24 inches in length and relies on wide delta wings to maximize lift. I am mainly using this as a reference for future designs and hopefully a DIY version since I eventually would like to create an open-source DIY design.
 <figure>
-  <img width="931" height="181" alt="image" src="https://github.com/user-attachments/assets/9ee0c75a-42bf-46ed-a68e-ecbda2388c81" />
+  <img width="1117" height="217" alt="image" src="https://github.com/user-attachments/assets/9ee0c75a-42bf-46ed-a68e-ecbda2388c81" />
   <figcaption align="center"><b>Figure 1:</b> Drone 3D model sideview.</figcaption>
 </figure\>
 
