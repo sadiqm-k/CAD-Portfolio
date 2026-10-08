@@ -3,7 +3,7 @@ Welcome! This is my portfolio to showcase my CAD projects
 ***
 ## Tiger II Scale Model
 <figure>
-  <img width="900" height="500" alt="Screenshot 2026-10-07 233546" src="https://github.com/user-attachments/assets/05302a2e-02db-4497-ad2c-520828842ed8"/>
+  <img width="1020" height="590" alt="Screenshot 2026-10-07 233546" src="https://github.com/user-attachments/assets/05302a2e-02db-4497-ad2c-520828842ed8"/>
   <figcaption align="center"><b>Figure 1:</b> Tiger II 3D model.</figcaption>
 </figure>
 
