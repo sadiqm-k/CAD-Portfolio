@@ -27,3 +27,23 @@ I am really invested in scale models as a hobby of mine, so I thought it would b
 </figure>
 
 ***
+<figure>
+  <img width="1208" height="718" alt="Screenshot 2025-10-10 195802" src="https://github.com/user-attachments/assets/794cf9c0-d1b6-462f-afed-69b81bfd5299" />
+  <figcaption align="center"><b>Figure 5:</b> Bank vault locking mechanism. </figcaption>
+</figure\>
+
+This is a CAD lab project that I think is cool to showcase as, when it is assembled, the locking mechanism moves to push the bars out. I think it is overall a good demonstration of how useful assembly is for showing moving mechanisms.
+
+<figure>
+  <img width="1561" height="710" alt="Screenshot 2025-10-12 145502" src="https://github.com/user-attachments/assets/daceee1e-214c-4385-832f-7d01549d1c49" />
+  <figcaption align="center"><b>Figure 6:</b> Bank vault locking mechanism exploded.</figcaption>
+</figure\>
+
+***
+<figure>
+  <img width="1142" height="802" alt="Screenshot 2025-11-03 222936" src="https://github.com/user-attachments/assets/37b353b8-336b-4862-9adf-a129d0694894" />
+  <figcaption align="center"><b>Figure 6:</b> 2D part drawing </figcaption>
+</figure\>
+Also a CAD lab project, but I think is nice to show an example of a 2D shop drawing. 
+
+***
