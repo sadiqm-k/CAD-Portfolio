@@ -57,7 +57,7 @@ Astro Projects
 <img width="596" height="522" alt="Screenshot 2026-11-09 163706" src="https://github.com/user-attachments/assets/7ff3f67e-6f0c-4cd2-ac11-8c6e0f11a7f3" />
 
 
-Above design inspired by astrograph design https://www.printables.com/model/1179616-dbs-114-v2-astrograph-3d-printable-astrophotograph by Dave Aldrich
+Above designs inspired by astrograph design https://www.printables.com/model/1179616-dbs-114-v2-astrograph-3d-printable-astrophotograph by Dave Aldrich
 
 License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
