@@ -58,7 +58,8 @@ Misc. Showcase; in progress projects, other past labs:
 <img width="560" height="662" alt="Screenshot 2025-12-11 174438" src="https://github.com/user-attachments/assets/8b2d902e-524c-4d79-94da-3c0b2582abf3" />
 <img width="1181" height="776" alt="Screenshot 2025-12-11 103412" src="https://github.com/user-attachments/assets/0251314b-21b8-4f24-abf3-5fde0d1bc8ad" />
 <img width="1193" height="815" alt="Screenshot 2025-12-11 103349" src="https://github.com/user-attachments/assets/f18ea14d-7ae7-4f72-91fc-04bee985faae" />
-***
+******
+
 <img width="1172" height="873" alt="Screenshot 2025-11-17 221128" src="https://github.com/user-attachments/assets/05a8eee2-44b1-4a55-93be-e808f66112d5" />
 <img width="930" height="577" alt="Screenshot 2025-11-17 221214" src="https://github.com/user-attachments/assets/da1a8e20-70e7-4d13-9eef-c5fe78c72142" />
 <img width="1269" height="907" alt="Screenshot 2025-11-24 171016" src="https://github.com/user-attachments/assets/a673ba3a-9536-4e62-926b-0d0327270fe7" />
