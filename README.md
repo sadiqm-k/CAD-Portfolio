@@ -47,8 +47,13 @@ This is a CAD lab project that I think is cool to showcase as, when it is assemb
 Also a CAD lab project, but I think is nice to show an example of a 2D shop drawing. 
 
 ***
-Misc. Showcase, labs and projects:
+Misc. Showcase; in progress projects, other past labs:
 <img width="1167" height="1017" alt="Screenshot 2026-08-01 143446" src="https://github.com/user-attachments/assets/7c58eee9-aa38-4430-9efe-29ca3db70368" />
+<img width="875" height="432" alt="Screenshot 2026-11-09 163606" src="https://github.com/user-attachments/assets/62521372-f5f4-4bed-8fa1-fb46f015a7ed" />
+<img width="402" height="512" alt="Screenshot 2026-11-09 163642" src="https://github.com/user-attachments/assets/74d073ac-7ac9-491b-bfaa-84cb6cf837fb" />
+<img width="565" height="507" alt="Screenshot 2026-11-09 163725" src="https://github.com/user-attachments/assets/5795b30a-9343-4b8d-a235-0695ebf2539e" />
+<img width="596" height="522" alt="Screenshot 2026-11-09 163706" src="https://github.com/user-attachments/assets/7ff3f67e-6f0c-4cd2-ac11-8c6e0f11a7f3" />
+***
 <img width="1181" height="776" alt="Screenshot 2025-12-11 103412" src="https://github.com/user-attachments/assets/0251314b-21b8-4f24-abf3-5fde0d1bc8ad" />
 <img width="1193" height="815" alt="Screenshot 2025-12-11 103349" src="https://github.com/user-attachments/assets/f18ea14d-7ae7-4f72-91fc-04bee985faae" />
 <img width="539" height="787" alt="Screenshot 2025-12-12 114417" src="https://github.com/user-attachments/assets/6825da6f-11eb-4a37-acff-aa0fe3eaf58e" />
