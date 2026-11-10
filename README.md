@@ -59,6 +59,14 @@ Astro Projects
 
 ***
 
+Practice CADs
+
+<img width="1095" height="307" alt="Screenshot 2026-11-09 165534" src="https://github.com/user-attachments/assets/74d2cc5d-6b9c-4fc3-8a9e-0f011f6de6bc" />
+<img width="572" height="366" alt="Screenshot 2026-11-09 165451" src="https://github.com/user-attachments/assets/f1fcb9ad-700b-4693-9710-c6ccba55ed40" />
+
+
+***
+
 Wind Turbine
 
 <img width="539" height="787" alt="Screenshot 2025-12-12 114417" src="https://github.com/user-attachments/assets/6825da6f-11eb-4a37-acff-aa0fe3eaf58e" />
