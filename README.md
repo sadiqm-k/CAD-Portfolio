@@ -48,22 +48,25 @@ Also a CAD lab project, but I think is nice to show an example of a 2D shop draw
 
 ***
 Misc. Showcase; in progress projects, other past labs:
+***
+
+Astro Projects
 <img width="1167" height="1017" alt="Screenshot 2026-08-01 143446" src="https://github.com/user-attachments/assets/7c58eee9-aa38-4430-9efe-29ca3db70368" />
 <img width="875" height="432" alt="Screenshot 2026-11-09 163606" src="https://github.com/user-attachments/assets/62521372-f5f4-4bed-8fa1-fb46f015a7ed" />
 <img width="402" height="512" alt="Screenshot 2026-11-09 163642" src="https://github.com/user-attachments/assets/74d073ac-7ac9-491b-bfaa-84cb6cf837fb" />
 <img width="565" height="507" alt="Screenshot 2026-11-09 163725" src="https://github.com/user-attachments/assets/5795b30a-9343-4b8d-a235-0695ebf2539e" />
 <img width="596" height="522" alt="Screenshot 2026-11-09 163706" src="https://github.com/user-attachments/assets/7ff3f67e-6f0c-4cd2-ac11-8c6e0f11a7f3" />
 ***
+Wind Turbine
 <img width="539" height="787" alt="Screenshot 2025-12-12 114417" src="https://github.com/user-attachments/assets/6825da6f-11eb-4a37-acff-aa0fe3eaf58e" />
 <img width="560" height="662" alt="Screenshot 2025-12-11 174438" src="https://github.com/user-attachments/assets/8b2d902e-524c-4d79-94da-3c0b2582abf3" />
 <img width="1181" height="776" alt="Screenshot 2025-12-11 103412" src="https://github.com/user-attachments/assets/0251314b-21b8-4f24-abf3-5fde0d1bc8ad" />
 <img width="1193" height="815" alt="Screenshot 2025-12-11 103349" src="https://github.com/user-attachments/assets/f18ea14d-7ae7-4f72-91fc-04bee985faae" />
 
 ***
-
+E26 Wrench
 <img width="1172" height="873" alt="Screenshot 2025-11-17 221128" src="https://github.com/user-attachments/assets/05a8eee2-44b1-4a55-93be-e808f66112d5" />
 <img width="930" height="577" alt="Screenshot 2025-11-17 221214" src="https://github.com/user-attachments/assets/da1a8e20-70e7-4d13-9eef-c5fe78c72142" />
 <img width="1269" height="907" alt="Screenshot 2025-11-24 171016" src="https://github.com/user-attachments/assets/a673ba3a-9536-4e62-926b-0d0327270fe7" />
-
 <img width="1218" height="710" alt="Screenshot 2025-11-10 170553" src="https://github.com/user-attachments/assets/33c52c89-4d70-4e0c-8b08-62ea3ebf589d" />
 <img width="1147" height="879" alt="Screenshot 2025-10-20 175835" src="https://github.com/user-attachments/assets/837b32d0-554e-4465-9e80-4b8380ec4e70" />
