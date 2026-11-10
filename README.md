@@ -60,6 +60,7 @@ Astro Projects
 ***
 
 Wind Turbine
+
 <img width="539" height="787" alt="Screenshot 2025-12-12 114417" src="https://github.com/user-attachments/assets/6825da6f-11eb-4a37-acff-aa0fe3eaf58e" />
 <img width="560" height="662" alt="Screenshot 2025-12-11 174438" src="https://github.com/user-attachments/assets/8b2d902e-524c-4d79-94da-3c0b2582abf3" />
 <img width="1181" height="776" alt="Screenshot 2025-12-11 103412" src="https://github.com/user-attachments/assets/0251314b-21b8-4f24-abf3-5fde0d1bc8ad" />
