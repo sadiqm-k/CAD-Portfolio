@@ -52,13 +52,14 @@ Misc. Showcase; in progress projects, other past labs:
 
 Astro Projects
 <img width="1167" height="1017" alt="Screenshot 2026-08-01 143446" src="https://github.com/user-attachments/assets/7c58eee9-aa38-4430-9efe-29ca3db70368" />
-<img width="875" height="432" alt="Screenshot 2026-11-09 163606" src="https://github.com/user-attachments/assets/62521372-f5f4-4bed-8fa1-fb46f015a7ed" />
 <img width="402" height="512" alt="Screenshot 2026-11-09 163642" src="https://github.com/user-attachments/assets/74d073ac-7ac9-491b-bfaa-84cb6cf837fb" />
 <img width="565" height="507" alt="Screenshot 2026-11-09 163725" src="https://github.com/user-attachments/assets/5795b30a-9343-4b8d-a235-0695ebf2539e" />
-Above roughly based off of astrograph design https://www.printables.com/model/1179616-dbs-114-v2-astrograph-3d-printable-astrophotograph by Dave Aldrich
+<img width="596" height="522" alt="Screenshot 2026-11-09 163706" src="https://github.com/user-attachments/assets/7ff3f67e-6f0c-4cd2-ac11-8c6e0f11a7f3" />
+Above design inspired by astrograph design https://www.printables.com/model/1179616-dbs-114-v2-astrograph-3d-printable-astrophotograph by Dave Aldrich
+
 License: https://creativecommons.org/licenses/by-nc-sa/4.0/
 
-<img width="596" height="522" alt="Screenshot 2026-11-09 163706" src="https://github.com/user-attachments/assets/7ff3f67e-6f0c-4cd2-ac11-8c6e0f11a7f3" />
+<img width="875" height="432" alt="Screenshot 2026-11-09 163606" src="https://github.com/user-attachments/assets/62521372-f5f4-4bed-8fa1-fb46f015a7ed" />
 
 ***
 
